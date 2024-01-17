@@ -2,8 +2,10 @@
   {
     "user_id" : 3,
     "auth" : seller,
-    "login_id" : 1,
+    "login_id" : "ssafy",
     "nickname" : "하치와레",
+    "birthday" : "2000-04-12",
+    "auth" : "seller",
     "profile_img" : "https://raw.githubusercontent.com/printilikepenguin/forUserContent/master/profile.png",
   }
 ]
