@@ -1,0 +1,26 @@
+[
+  {
+    "product_id" : 3,
+    "category_id" : 1,
+    "seller_id" : 1,
+    "product_name" : "Flowey",
+    "product_content" : "only 5 inches",
+    "price" : 1000
+  },
+  {
+    "product_id" : 2,
+    "category_id" : 2,
+    "seller_id" : 3,
+    "product_name" : "dsfwey",
+    "product_content" : "for less than 6",
+    "price" : 20000
+  },
+  {
+    "product_id" : 1,
+    "category_id" : 3,
+    "seller_id" : 5,
+    "product_name" : "eiffjowey",
+    "product_content" : "Born in France",
+    "price" : 6000
+  }
+]
